@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Data
+title: Public Goods
 description: This page consists of datasets and other public goods.
 nav: true
 nav_order: 3
