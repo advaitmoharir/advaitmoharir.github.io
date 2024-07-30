@@ -32,6 +32,15 @@ In case a downloadable PDF is not available on the site, please contact me via e
 
 </div>
 
+## Working Papers
+
+<hr>
+
+<div class="publications">
+ {% bibliography -f wip %}
+</div>
+
+
 ## Work in Progress
 
 <hr>
