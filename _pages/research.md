@@ -13,6 +13,7 @@ You can find my academic and non-academic writing below. All publications are so
 
 <ul id="markdown-toc">
   <li><a href="#journal-articles" id="markdown-toc-journal-articles">Journal Articles</a></li>
+  <li><a href="#working-papers" id="markdown-toc-wp">Working Papers</a></li>
   <li><a href="#work-in-progress" id="markdown-toc-wip">Work in Progress</a></li>
   <li><a href="#other-writing" id="markdown-toc-other">Other Writing</a></li>
 </ul>
@@ -37,7 +38,7 @@ In case a downloadable PDF is not available on the site, please contact me via e
 <hr>
 
 <div class="publications">
- {% bibliography -f wip %}
+ {% bibliography -f wp %}
 </div>
 
 
