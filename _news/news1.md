@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- "**New Working Paper!**": *Inter-state development and disparity: An unsupervised learning approach* with Rajendran Narayanan.
+ **New Working Paper!** -  *Inter-state development and disparity: An unsupervised learning approach* with Rajendran Narayanan.
