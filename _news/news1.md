@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **New Working Paper!** -  *Inter-state development and disparity: An unsupervised learning approach* with Rajendran Narayanan.
+ **New Publication!** -  *Inter-state development and disparity: An unsupervised learning approach* is published at **Economic and Political Weekly**.
