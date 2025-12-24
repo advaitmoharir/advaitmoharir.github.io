@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a target="_blank" href="https://www.cafral.org.in/Research.aspx">Research Department • CAFRAL</a>
+subtitle: <a target="_blank" href="https://econ.msu.edu/academics/graduate/phd">Department of Economics • Michigan State University</a>
 
 profile:
   align: right
@@ -20,13 +20,13 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my website! 
 
-I am a Research Associate at the
-<a target="_blank" href="https://www.cafral.org.in/"> Centre for Advanced Financial Research and Learning (CAFRAL)</a>
-in Mumbai, India. My research interests lie at the intersection of **macroeconomics**, **applied econometrics**, and **development**. 
+I am a first year PhD student in Economics at
+<a target="_blank" href="https://econ.msu.edu/academics/graduate/phd"> Michigan State University</a>
+in Mumbai, India. I am broadly interested in **financial inclusion**, **econometric methods** and **economics of discrimination**. 
 
 I completed my Masters in Economics from the <a target="_blank" href="https://en.unisi.it/departments/department-economics-and-statistics">University of Siena</a>, Italy, and my Bachelor's degree from <a target="_blank" href="https://azimpremjiuniversity.edu.in/programmes/ba-in-economics"> Azim Premji University</a>, India.
 
-Previously, I worked for organizations like <a target="_blank" href="https://krea.edu.in/ieindia/"> Inclusion Economics (formerly EPoD) </a> and <a target="_blank"  href="https://www.core-econ.org/">  CORE Economics Education. </a>
+
 
 
 
